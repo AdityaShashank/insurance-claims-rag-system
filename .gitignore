@@ -1,2 +1,10 @@
 venv
 venv/
+.env/
+# Databases and Local Data
+db/
+*.sqlite3
+
+# Python Cache
+__pycache__/
+*.py[cod]
